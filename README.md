@@ -7,7 +7,7 @@ Everything was built, tested, and executed entirely on **Confluent Cloud Kafka**
 ---
 
 ## 🎁 Free Cloud Storage Promo
-Want to try Kafka yourself? You can set up your own environment on Confluent Cloud. Use this coupon code during signup to get 1 month of free usage credits:
+You can set up your own environment on Confluent Cloud. Use this coupon code during signup to get 1 month of free usage credits:
 * **Coupon Code:** `CONFLUENTDEV1`
 
 ---
