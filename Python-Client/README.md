@@ -25,7 +25,7 @@ Illustrates the macro-level event data flow mapping. It displays the connection 
 ![Stream Lineage Overview](./ss/Screenshot%202026-08-08%20133719.png)
 
 ### Live Cloud Message Inspection
-Verifies successful JSON serialization of rich user metrics. The cloud console captures the raw text payloads containing customized tracking fields (`customer_id`, `name`, `city`, and regional locations like Pune and Maharashtra).
+Verifies successful JSON serialization of data payloads. The cloud console captures the raw text parameters confirming structured message attributes are passing correctly into the cloud environment.
 
 ![Live Cloud Message Inspection](./ss/Screenshot%202026-08-08%20133800.png)
 
@@ -52,7 +52,7 @@ Confirms the cumulative storage volume checkpoint inside the cloud backend, logg
 ![Total Message Auditing](./ss/Screenshot%202026-08-08%20194704.png)
 
 ### Local Console Output Capture
-A direct snapshot of the Google Colab terminal processing live data. It displays the parsed output log tracking active customer profiles from states like West Bengal alongside standard error-handling exceptions.
+A direct snapshot of the Google Colab terminal processing live data. It displays the parsed output log tracking streaming message data alongside standard error-handling exceptions.
 
 ![Local Console Output Capture](./ss/Screenshot%202026-08-08%20200734.png)
 
