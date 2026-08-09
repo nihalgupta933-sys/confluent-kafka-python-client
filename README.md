@@ -30,7 +30,7 @@ Want to try Kafka yourself? You can set up your own environment on Confluent Clo
 
 ## 📂 Repository Contents
 
-* ### [📁 Python Client](./Python%20Client/)
+* ### [📁 Python Client](./Python-Client/)
   * Contains my interactive Jupyter Notebooks (`.ipynb`).
   * Features my working Python scripts for producing and consuming.
   * Includes code-execution screenshots.
