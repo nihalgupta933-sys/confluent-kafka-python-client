@@ -1,1 +1,9 @@
-winget install -e --id ConfluentInc.Confluent-CLI
+> winget install -e --id ConfluentInc.Confluent-CLI
+
+> confluent login --save
+
+(Enter your email and log in. It might ask you for your password, but most of the time it verifies automatically)
+
+After successfully logging in, you can easily produce and consume messages.
+
+Happy Learning!
