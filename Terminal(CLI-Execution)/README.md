@@ -22,15 +22,16 @@ Created a dedicated resource sandbox environment named `environment_from_cli` di
 
 ## ☁️ Step 2: Infrastructure Deployment via CLI
 
-### Cloud Console Synchronization
-A verified visual checkpoint inside the Confluent Web UI showing the workspace configurations updating instantly on the cloud. The platform displays the freshly initialized environment alongside existing profiles.
-
-![Cloud Console Synchronization](./ss/Screenshot%202026-08-09%20152024.png)
-
 ### Provisioning a Managed Kafka Cluster
 Executed an infrastructure deployment command to spin up a live basic Kafka cluster named `cli_cluster` on AWS (`us-east-1`). The deployment configurations outline structural storage limits and server endpoints.
 
 ![Provisioning a Managed Kafka Cluster](./ss/Screenshot%202026-08-09%20152338.png)
+
+
+### Cloud Console Synchronization
+A verified visual checkpoint inside the Confluent Web UI showing the workspace configurations updating instantly on the cloud. The platform displays the freshly initialized environment alongside existing profiles.
+
+![Cloud Console Synchronization](./ss/Screenshot%202026-08-09%20152024.png)
 
 ### Live Cluster Status Audit
 A web dashboard checkpoint verifying that the newly requested cluster has successfully finished its deployment cycles and is officially active on the cloud infrastructure.
